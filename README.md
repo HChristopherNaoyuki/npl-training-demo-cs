@@ -71,12 +71,9 @@ feedback to improve the model over time.
 - **TrainModel()**: Trains the sentiment analysis model using the current training examples.
 - **AnalyzeSentiment()**: Handles the button click event to analyze the sentiment of the input text.
 
----
 ## Acknowledgments
 
 - Thanks to the ML.NET team for providing a powerful machine learning framework.
 - Special thanks to the open-source community for their contributions and support.
 
-## Contact
-
-For any inquiries or feedback, please reach out to [your-email@example.com].
+---
